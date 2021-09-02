@@ -1,0 +1,10 @@
+Python Libraries ::
+speech_recognition
+gtts
+os
+playsound
+time
+wolframalpha
+requests
+webbrowser
+subprocess
